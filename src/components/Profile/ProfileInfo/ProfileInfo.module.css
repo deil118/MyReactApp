@@ -1,0 +1,30 @@
+
+
+.descriptionBlock {
+    padding: 15px;
+    font-size:24px;
+
+}
+
+
+
+.ProfileInfo img{
+    width: 140px;
+    padding: 10px;
+    border-radius: 110px;
+
+}
+
+
+.frends  {
+    padding-left: 15px;
+    color:rgba(0, 0, 0, 0.5);
+    font-size:25px;
+}
+
+.frends img {
+    width: 80px;
+    height: 80px;
+    padding: 5px;
+    border-radius: 100px;
+}
